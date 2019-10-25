@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Suite1" >
+	<listeners>
+		<listener class-name = "weightwatchersassignment.TestListener"/>
+	</listeners>
+  		<test name="WeightWatchersAssignmentTEstSuite">
+  			<classes>
+    			<class name = "weightwatchersassignment.WeightWatchTest"/>
+  			</classes>
+  		</test> <!-- Test -->  
+ </suite> <!-- Suite -->

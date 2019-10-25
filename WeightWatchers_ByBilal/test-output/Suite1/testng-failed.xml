@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <listeners>
+    <listener class-name="weightwatchersassignment.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="RandomScenarios(failed)">
+    <classes>
+      <class name="weightwatchersassignment.WeightWatchTest">
+        <methods>
+          <include name="verifyStringInAFindAStudioPageTitle"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="verifyStringInTheTitle"/>
+        </methods>
+      </class> <!-- weightwatchersassignment.WeightWatchTest -->
+    </classes>
+  </test> <!-- RandomScenarios(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
