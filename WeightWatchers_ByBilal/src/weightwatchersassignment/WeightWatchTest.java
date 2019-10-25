@@ -43,8 +43,6 @@ public class WeightWatchTest extends BaseClass {
 // 3. On the right corner of the page, click on “Find a studio”
 	public void findAStudioButtonClick() {
 		driver.findElement(By.xpath("//*[@id=\'ela-menu-visitor-desktop-supplementa_find-a-studio\']/span")).click();
-		//*[@id="ela-menu-visitor-desktop-supplementa_find-a-studio"]/span
-		//a[@class='mobile-find-a-meeting']/span[@class='menu-link__inner-wrapper']
 	}
 	
 // 4. Verify loaded page title contains “Meetings Near You”
