@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="42127" started-at="2019-10-25T14:29:47Z" finished-at="2019-10-25T14:30:29Z">
+  <suite name="Suite1" duration-ms="52488" started-at="2019-10-27T16:12:35Z" finished-at="2019-10-27T16:13:27Z">
     <groups>
     </groups>
-    <test name="WeightWatchersAssignmentTEstSuite" duration-ms="42127" started-at="2019-10-25T14:29:47Z" finished-at="2019-10-25T14:30:29Z">
+    <test name="WeightWatchersAssignmentTEstSuite" duration-ms="52488" started-at="2019-10-27T16:12:35Z" finished-at="2019-10-27T16:13:27Z">
       <class name="weightwatchersassignment.WeightWatchTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="setup" is-config="true" duration-ms="23934" started-at="2019-10-25T14:29:47Z" finished-at="2019-10-25T14:30:11Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="setup" is-config="true" duration-ms="34163" started-at="2019-10-27T16:12:35Z" finished-at="2019-10-27T16:13:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyStringInTheTitle()[pri:1, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="verifyStringInTheTitle" duration-ms="107" started-at="2019-10-25T14:30:11Z" finished-at="2019-10-25T14:30:11Z">
+        <test-method status="PASS" signature="verifyStringInTheTitle()[pri:1, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="verifyStringInTheTitle" duration-ms="69" started-at="2019-10-27T16:13:09Z" finished-at="2019-10-27T16:13:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStringInTheTitle -->
-        <test-method status="PASS" signature="findAStudioButtonClick()[pri:2, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="findAStudioButtonClick" duration-ms="8792" started-at="2019-10-25T14:30:11Z" finished-at="2019-10-25T14:30:20Z">
+        <test-method status="PASS" signature="findAStudioButtonClick()[pri:2, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="findAStudioButtonClick" duration-ms="9269" started-at="2019-10-27T16:13:09Z" finished-at="2019-10-27T16:13:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- findAStudioButtonClick -->
-        <test-method status="PASS" signature="verifyStringInAFindAStudioPageTitle()[pri:3, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="verifyStringInAFindAStudioPageTitle" duration-ms="104" started-at="2019-10-25T14:30:20Z" finished-at="2019-10-25T14:30:20Z">
+        <test-method status="PASS" signature="verifyStringInAFindAStudioPageTitle()[pri:3, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="verifyStringInAFindAStudioPageTitle" duration-ms="89" started-at="2019-10-27T16:13:18Z" finished-at="2019-10-27T16:13:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStringInAFindAStudioPageTitle -->
-        <test-method status="PASS" signature="enterZipCodeAndSearch()[pri:4, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="enterZipCodeAndSearch" duration-ms="1585" started-at="2019-10-25T14:30:20Z" finished-at="2019-10-25T14:30:22Z">
+        <test-method status="PASS" signature="enterZipCodeAndSearch()[pri:4, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="enterZipCodeAndSearch" duration-ms="2094" started-at="2019-10-27T16:13:18Z" finished-at="2019-10-27T16:13:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterZipCodeAndSearch -->
-        <test-method status="PASS" signature="printTheTitleAndDistanceOfFirstResult()[pri:5, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="printTheTitleAndDistanceOfFirstResult" duration-ms="2897" started-at="2019-10-25T14:30:22Z" finished-at="2019-10-25T14:30:25Z">
+        <test-method status="PASS" signature="printTheTitleAndDistanceOfFirstResult()[pri:5, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="printTheTitleAndDistanceOfFirstResult" duration-ms="2449" started-at="2019-10-27T16:13:20Z" finished-at="2019-10-27T16:13:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printTheTitleAndDistanceOfFirstResult -->
-        <test-method status="PASS" signature="firstSearchClickAndNameMatch()[pri:6, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="firstSearchClickAndNameMatch" duration-ms="3152" started-at="2019-10-25T14:30:25Z" finished-at="2019-10-25T14:30:28Z">
+        <test-method status="PASS" signature="firstSearchClickAndNameMatch()[pri:6, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="firstSearchClickAndNameMatch" duration-ms="2898" started-at="2019-10-27T16:13:23Z" finished-at="2019-10-27T16:13:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstSearchClickAndNameMatch -->
-        <test-method status="PASS" signature="printTodaysHoursOfOperation()[pri:7, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="printTodaysHoursOfOperation" duration-ms="989" started-at="2019-10-25T14:30:28Z" finished-at="2019-10-25T14:30:29Z">
+        <test-method status="PASS" signature="printTodaysHoursOfOperation()[pri:7, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="printTodaysHoursOfOperation" duration-ms="539" started-at="2019-10-27T16:13:26Z" finished-at="2019-10-27T16:13:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printTodaysHoursOfOperation -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="tearDown" is-config="true" duration-ms="468" started-at="2019-10-25T14:30:29Z" finished-at="2019-10-25T14:30:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:weightwatchersassignment.WeightWatchTest@548a9f61]" name="tearDown" is-config="true" duration-ms="818" started-at="2019-10-27T16:13:26Z" finished-at="2019-10-27T16:13:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
